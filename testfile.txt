@@ -1,0 +1,5 @@
+region: south
+state: andhra
+user: ishwarya
+country: India
+aws account free trail
