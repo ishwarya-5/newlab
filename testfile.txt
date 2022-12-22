@@ -1,5 +1,0 @@
-region: north
-state: tamilnadu
-user: ishwarya
-country: us
-aws account free trail
